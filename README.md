@@ -10,3 +10,5 @@ Here, the dataset contains two folders.
 
 We have 151 images in each folder.
 Using these two folders we have to findout the patient is effected to covid or not.
+
+In this I use the Convolutional Neural Networks - CNN to build the model and I use OpenCV to load the images.
